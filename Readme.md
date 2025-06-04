@@ -25,7 +25,7 @@ A RESTful API for a Book Review system built using **Node.js**, **Express**, **M
 ---
 
 ##  Project Structure
-
+```
 book-review-api/
 ├── controllers/ # Route logic (Auth, Books, Reviews)
 ├── models/ # Mongoose schemas
@@ -36,7 +36,7 @@ book-review-api/
 ├── server.js # Server entry point
 ├── package.json
 └── README.md
-
+```
 ---
 
 ##  Setup Instructions
