@@ -1,0 +1,30 @@
+{
+  "name": "billeasy",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ns-Dev64/billeasyAssignment.git"
+  },
+  "author": "Navaneet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ns-Dev64/billeasyAssignment/issues"
+  },
+  "homepage": "https://github.com/Ns-Dev64/billeasyAssignment#readme",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
