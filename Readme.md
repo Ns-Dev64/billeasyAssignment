@@ -50,17 +50,17 @@ npm install
 ```
 
 ### 2. Create a .env file
-
+```
 PORT=5001
 MONGO_URI=mongodb://localhost:27017/bookreview
 JWT_SECRET=your_jwt_secret_key
-
+```
 
 ### 3. Run the server
 
-For production: npm start
+For production: ```npm start```
 
-For development: npm run dev
+For development: ```npm run dev```
 
 
 ##  API Endpoints
